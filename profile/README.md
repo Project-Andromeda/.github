@@ -1,6 +1,17 @@
-## Hi there 👋
+## Hi!
 
-testing to see what it looks like
+Hi there! We're Project: Andromeda. We're a group of two developers, [AstralFennex](https://www.github.com/AstralFennex) and [XenithMusic (aka cookiiq)](https://www.github.com/AstralFennex).
+We're working on the following projects, in the following order:
+- [Paranoia (a kernel)](https://www.github.com/XenithMusic/Paranoia) (temporarily on the XenithMusic personal repository)
+- AstraVeil Light (a window manager) (NO REPO)
+- [AstraVeil (a desktop environment)](https://www.github.com/Project-Andromeda/AstraVeil)
+- Celestle OS (an operating system based on the 3 previous elements) (NO REPO)
+
+We will also be maintaining:
+- The `.kli` file format, an object file format designed to make extending kernel behavior easier. (NO DOCUMENTATION)
+- A program like X11 for the Paranoia kernel. (NO REPO)
+
+Right now, only the kernel, and `.kli` file format, are being worked on. All of the other elements depend on these first, so these must come first.
 
 <!--
 
